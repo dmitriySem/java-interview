@@ -24,7 +24,8 @@
 + [Основы CSS](#Основы-css) 
 + [Основы Web](#Основы-web) 
 + [Дополнительные материалы](#Дополнительные-материалы) 
-+ [Курсы](Corses.md#) 
++ [Курсы](Corses.md#)
++ [Примеры кода](https://github.com/dmitriySem/java-interview/tree/master/JavaJunior/Lesson1_Lambda_StreamApi/src/macro)
 
 [done]:done.png
 
