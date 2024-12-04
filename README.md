@@ -26,7 +26,7 @@
 + [Дополнительные материалы](#Дополнительные-материалы) 
 + [Курсы](Corses.md#)
 + [Примеры кода:курс geekbrain-java. Java Junior](https://github.com/dmitriySem/java-interview/tree/master/JavaJunior/Lesson1_Lambda_StreamApi/src/macro)]
-+ [Примеры кода:](https://github.com/dmitriySem/java-interview/tree/master/examples)
++ [Примеры кода](https://github.com/dmitriySem/java-interview/tree/master/examples/src/main)
 
 
 [done]:done.png
