@@ -1,7 +1,6 @@
 package Seminars.Lesson4.task1;
 
 import Seminars.Lesson4.task1.models.Student;
-import com.mysql.cj.xdevapi.PreparableStatement;
 
 import java.sql.*;
 import java.util.ArrayList;
@@ -56,9 +55,9 @@ public class Program {
                 System.out.println(student);
             System.out.println("Read data");
 
-            for (var student : students)
-                deleteData(connection, student.getId());
-            System.out.println("Delete data");
+//            for (var student : students)
+//                deleteData(connection, student.getId());
+//            System.out.println("Delete data");
 
             connection.close();
             System.out.println("Database is closed successfully");
