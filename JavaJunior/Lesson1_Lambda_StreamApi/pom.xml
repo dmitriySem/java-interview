@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>Lesson1_Lambda_StreamApi</artifactId>
+    <artifactId>Lesson1-4</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
